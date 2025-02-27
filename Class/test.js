@@ -3,6 +3,7 @@ let accountEmail="srush@gmail.com"
 var accountPassword="12345"
 accountCity ="shimoga"
 accountCity="manglore"
+let accountState; //undefined
 //accountId=2//not allowed
 console.log(accountId);
 console.log(accountCity);
